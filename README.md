@@ -11,7 +11,7 @@ I create tools for Roblox scripting.
 ### 🟣 [Raknot-lua-editor](https://github.com/raknot/Raknot-lua-editor)
 Professional browser-based Lua/Roblox IDE with syntax highlighting, error checking, and multi-file support.
 
-### 🔵 [Raknot-UI]([https://raknot.dev](https://github.com/raknot/Raknot-UI))
+### 🔵 [Raknot-UI](https://github.com/raknot/Raknot-UI)
 Open Source Roblox UI - with an example page
 
 ### 🔴 [Raknot.dev](https://raknot.dev)
