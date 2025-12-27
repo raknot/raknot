@@ -26,4 +26,4 @@ Drag-and-drop Roblox script executor platform for creating custom cheat menus wi
 - Website: [raknot.dev](https://raknot.dev)
 - YouTube: [@dev.raknot](https://youtube.com/@dev.raknot)
 - GitHub: [@raknot](https://github.com/raknot)
-- Discord: [@raknot.dev]
+- Discord: @raknot.dev
